@@ -7,7 +7,7 @@ List of Spring Boot Tutorials
 ## [1. Spring boot 2 hello world example](https://javabydeveloper.com/spring-boot-hello-world-example-rest/)
 The [spring-boot-helloworld] sample demonstrates the bare minimum configuration for getting started with Spring boot 2 with maven examples with basic REST controller.
 
-## [2. Test Sprinng boot components with Junit 5](https://javabydeveloper.com/spring-boot-junit-5-test-example/)
+## [2. Test Spring boot components with Junit 5](https://javabydeveloper.com/spring-boot-junit-5-test-example/)
 The [Spring-boot-junit5-test-example] example to integrate Spring boot 2 and Junit 5 with Maven and writing tests to test the Spring components and a simple REST controller.
 
 ## [3. Spring boot email templete with Thymeleaf](https://javabydeveloper.com/spring-boot-email-template/)
