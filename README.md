@@ -12,3 +12,6 @@ The [Spring-boot-junit5-test-example] example to integrate Spring boot 2 and Jun
 
 ## [3. Spring boot email templete with Thymeleaf](https://javabydeveloper.com/spring-boot-email-template/)
 The [junit5-displayNames-example] Example to send an email using Spring boot 2 + gmail SMTP + Thymeleaf html template with an attachment and inline image.
+
+## [4. Lombok Spring Boot Example](https://javabydeveloper.com/lombok-spring-boot-example/)
+An example to start working Lombok and Spring boot together.
