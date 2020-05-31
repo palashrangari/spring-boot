@@ -15,3 +15,6 @@ The [junit5-displayNames-example] Example to send an email using Spring boot 2 +
 
 ## [4. Lombok Spring Boot Example](https://javabydeveloper.com/lombok-spring-boot-example/)
 An example to start working with Lombok and Spring boot together.
+
+## [5. Spring Boot H2 in-memory Example](https://javabydeveloper.com/spring-boot-h2-in-memory-database-example/)
+An example with Spring Boot + H2 + JPA example.
