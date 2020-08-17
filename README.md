@@ -18,3 +18,6 @@ An example to start working with Lombok and Spring boot together.
 
 ## [5. Spring Boot H2 in-memory Example](https://javabydeveloper.com/spring-boot-h2-in-memory-database-example/)
 An example with Spring Boot + H2 + JPA example.
+
+## [6. Deploy Spring Boot application in docker](https://javabydeveloper.com/deploy-spring-boot-application-in-docker-quick-guide/)
+A quick guide on how to deploy Spring Boot Application in Docker.
