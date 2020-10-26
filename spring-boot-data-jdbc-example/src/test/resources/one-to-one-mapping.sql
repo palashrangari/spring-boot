@@ -1,7 +1,9 @@
-DROP schema IF EXISTS `jpa_jbd`;
+/* Uncomment below script on mysql */
+
+/* DROP schema IF EXISTS `jpa_jbd`;
 
 CREATE schema IF NOT EXISTS `jpa_jbd`;
-use `jpa_jbd`;
+use `jpa_jbd`; */
 
 DROP TABLE IF EXISTS `USER_CREDENTIALS`;
 DROP TABLE IF EXISTS `USER`;
@@ -20,11 +22,12 @@ CREATE TABLE `USER` (
 	`UPDATED_TIME` datetime DEFAULT NULL,
 	`USER_TYPE` varchar(45) NOT NULL,
 	`DOB` date NOT NULL,
-	`CREDS_ID` NULL,
+	`CREDS_ID` INT NULL,
 	PRIMARY KEY (`ID`),
     CONSTRAINT `CREDS_ID_FK` 
      FOREIGN KEY (`CREDS_ID`) REFERENCES `USER_CREDENTIALS` (`CREDS_ID`)
 );
+
 
 	
      
