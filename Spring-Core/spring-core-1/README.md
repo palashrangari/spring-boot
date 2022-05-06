@@ -8,5 +8,4 @@ List of Spring Core Examples Series1
 1. [Spring @Autowired](https://javabydeveloper.com/tutorial-on-spring-autowired/) - Spring @Autowired
 2. [Spring @Lazy](https://javabydeveloper.com/using-spring-lazy-annotation/) - Spring @Lazy Annotation
 3. [Spring @Primary](https://javabydeveloper.com/spring-primary-annotation/) - Spring @Primary Annotation
-4. [Spring @Import](https://javabydeveloper.com/spring-import-annotation/) - Spring @Import Annotation
-5. [Spring Boot - Defining Beans in XML](https://javabydeveloper.com/spring-boot-defining-beans-in-xml/) - Spring Boot - Defining Beans in XML
+4. [Spring Boot - Defining Beans in XML](https://javabydeveloper.com/spring-boot-defining-beans-in-xml/) - Spring Boot - Defining Beans in XML
