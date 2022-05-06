@@ -6,3 +6,4 @@ List of Spring Core Examples Series2
 ## Spring Examples Series2
 
 1. [Spring - Injecting Collection](https://javabydeveloper.com/spring-injecting-collections/) - Spring - Injecting Collections
+2. [Spring - @Order](https://javabydeveloper.com/using-order-in-spring/) - Spring @Order Annotation 
